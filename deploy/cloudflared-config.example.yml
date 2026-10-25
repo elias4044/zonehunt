@@ -1,0 +1,15 @@
+# Example cloudflared config for a locally managed tunnel.
+# If you manage the tunnel in the Cloudflare dashboard instead, skip this file and add the
+# same hostname -> service mapping there (see HOSTING.md).
+#
+# Replace the tunnel ID, the credentials path and the hostname with your own.
+tunnel: 00000000-0000-0000-0000-000000000000
+credentials-file: /home/YOU/.cloudflared/00000000-0000-0000-0000-000000000000.json
+
+ingress:
+  # The whole site, root path included. PocketBase serves the app at / and keeps its own
+  # routes at /api/ and /_/ (admin). Do NOT add a path rule here.
+  - hostname: hunt.example.com
+    service: http://127.0.0.1:8090
+  # Required catch-all
+  - service: http_status:404

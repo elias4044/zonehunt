@@ -1,0 +1,10 @@
+node_modules
+.next
+out
+.git
+.env.local
+pocketbase/pocketbase
+pocketbase/pb_data
+pocketbase/pb_public
+scripts
+*.md

@@ -1,0 +1,26 @@
+# systemd unit for running PocketBase (and with it the whole game) on a Linux box.
+#
+#   sudo cp deploy/zonehunt.service /etc/systemd/system/zonehunt.service
+#   sudo systemctl daemon-reload
+#   sudo systemctl enable --now zonehunt
+#   journalctl -u zonehunt -f
+#
+# Expects the project's pocketbase/ folder (with the binary, pb_hooks, pb_migrations and
+# pb_public inside it) at /opt/zonehunt/pocketbase, owned by the zonehunt user.
+
+[Unit]
+Description=Zonehunt (PocketBase)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+User=zonehunt
+WorkingDirectory=/opt/zonehunt/pocketbase
+# Bound to localhost on purpose: only the tunnel (or a reverse proxy) should reach it.
+ExecStart=/opt/zonehunt/pocketbase/pocketbase serve --http=127.0.0.1:8090
+Restart=always
+RestartSec=3
+LimitNOFILE=4096
+
+[Install]
+WantedBy=multi-user.target

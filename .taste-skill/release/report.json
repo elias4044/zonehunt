@@ -1,0 +1,2332 @@
+{
+ "url": "http://127.0.0.1:3002",
+ "at": "2026-10-25T19:20:30.380Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 5,
+   "filled": [
+    0.65,
+    0.39,
+    0.74,
+    0.52,
+    0.78
+   ],
+   "motion": {
+    "elements": 22,
+    "css": 6,
+    "transitions": 0,
+    "scripted": 16,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 4079,
+     "screens": 4.5,
+     "words": 364,
+     "img": 0,
+     "video": 0,
+     "canvas": 0,
+     "svg": 10,
+     "sections": 3,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 5,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 5,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Go outside. Go off the radar.",
+     "words": 6,
+     "chars": 29,
+     "lines": 2,
+     "size": 92.2,
+     "vw": 6.4,
+     "font": "Archivo Variable",
+     "weight": 800,
+     "tracking": -0.035,
+     "leading": 0.94,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.47,
+     "top": 148,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Go outside. Go off the radar.",
+     "words": 6,
+     "lines": 2,
+     "size": 92.2,
+     "font": "Archivo Variable"
+    },
+    "headings": [
+     {
+      "text": "Go outside. Go off the radar.",
+      "words": 6,
+      "chars": 29,
+      "lines": 2,
+      "size": 92.2,
+      "vw": 6.4,
+      "font": "Archivo Variable",
+      "weight": 800,
+      "tracking": -0.035,
+      "leading": 0.94,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.47,
+      "top": 148,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Your next game starts here.",
+      "words": 5,
+      "chars": 27,
+      "lines": 2,
+      "size": 44,
+      "vw": 3.1,
+      "font": "Archivo Variable",
+      "weight": 800,
+      "tracking": -0.035,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.31,
+      "top": 401,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "14:32",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Archivo Variable",
+      "weight": 800,
+      "tracking": -0.01,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.07,
+      "top": 487,
+      "tag": "strong",
+      "kind": "heading"
+     },
+     {
+      "text": "Same zone. Different missions.",
+      "words": 4,
+      "chars": 30,
+      "lines": 2,
+      "size": 72,
+      "vw": 5,
+      "font": "Archivo Variable",
+      "weight": 800,
+      "tracking": -0.035,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.44,
+      "top": 1042,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Chase the next clue.",
+      "words": 4,
+      "chars": 20,
+      "lines": 1,
+      "size": 44,
+      "vw": 3.1,
+      "font": "Archivo Variable",
+      "weight": 800,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.31,
+      "top": 1334,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Stay one turn ahead.",
+      "words": 4,
+      "chars": 20,
+      "lines": 1,
+      "size": 44,
+      "vw": 3.1,
+      "font": "Archivo Variable",
+      "weight": 800,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.31,
+      "top": 1761,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "180 m",
+      "words": 2,
+      "chars": 5,
+      "lines": 1,
+      "size": 50,
+      "vw": 3.5,
+      "font": "Archivo Variable",
+      "weight": 800,
+      "tracking": -0.01,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.07,
+      "top": 1925,
+      "tag": "strong",
+      "kind": "heading"
+     },
+     {
+      "text": "Your turf. Your rules.",
+      "words": 4,
+      "chars": 22,
+      "lines": 2,
+      "size": 72,
+      "vw": 5,
+      "font": "Archivo Variable",
+      "weight": 800,
+      "tracking": -0.035,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.42,
+      "top": 2309,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Before you head out.",
+      "words": 4,
+      "chars": 20,
+      "lines": 2,
+      "size": 72,
+      "vw": 5,
+      "font": "Archivo Variable",
+      "weight": 800,
+      "tracking": -0.035,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.37,
+      "top": 2892,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Take the long way home.",
+      "words": 5,
+      "chars": 23,
+      "lines": 1,
+      "size": 57.6,
+      "vw": 4,
+      "font": "Archivo Variable",
+      "weight": 800,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.32,
+      "top": 3564,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Zonehunt",
+      "words": 1,
+      "chars": 8,
+      "lines": 1,
+      "size": 253.4,
+      "vw": 17.6,
+      "font": "Archivo Variable",
+      "weight": 800,
+      "tracking": -0.045,
+      "leading": 0.8,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 3799,
+      "tag": "div",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 11,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Archivo Variable",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      14,
+      16,
+      18,
+      20,
+      24,
+      26,
+      44,
+      58,
+      72,
+      92,
+      253
+     ],
+     "sizeCount": 11,
+     "notLoaded": [],
+     "body": {
+      "font": "Archivo Variable",
+      "size": 16,
+      "leading": 1.6,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 15.4
+     },
+     "measureChars": 64,
+     "max": {
+      "size": 253.4,
+      "vw": 17.6,
+      "font": "Archivo Variable",
+      "text": "Zonehunt"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.02,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#eef1f2",
+     "bodyBgHsl": {
+      "h": 195,
+      "s": 0.13,
+      "l": 0.94
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#e0e7dd",
+       "top": 369,
+       "hsl": {
+        "h": 102,
+        "s": 0.17,
+        "l": 0.89
+       }
+      },
+      {
+       "color": "#0f1a2c",
+       "top": 2172,
+       "hsl": {
+        "h": 217,
+        "s": 0.49,
+        "l": 0.12
+       }
+      },
+      {
+       "color": "#ff5a1f",
+       "top": 3500,
+       "hsl": {
+        "h": 16,
+        "s": 1,
+        "l": 0.56
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#0f1a2c",
+       "share": 0.89
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.09
+      },
+      {
+       "color": "#4c5c48",
+       "share": 0.01
+      },
+      {
+       "color": "#2849c7",
+       "share": 0.01
+      }
+     ],
+     "button": {
+      "bg": "#ffffff",
+      "hsl": {
+       "h": 0,
+       "s": 0,
+       "l": 1
+      },
+      "fg": "#0f1a2c"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 6,
+     "inHero": 4,
+     "radius": 0,
+     "height": 36,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Chaser",
+      "Reveal runners +",
+      "Create a game",
+      "Join"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 0,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "svg",
+      "ratio": 0.21
+     }
+    ],
+    "nav": {
+     "links": 4,
+     "fixed": false,
+     "height": 100,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "archivo variable"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 4079,
+    "margins": {
+     "left": 60,
+     "right": 80
+    },
+    "sections": [
+     {
+      "sel": "div.landing-hero.landing-frame",
+      "tag": "div",
+      "top": 100,
+      "height": 806,
+      "words": 93,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Go outside.",
+       "size": 92,
+       "tag": "h1"
+      },
+      "left": 60,
+      "right": 92,
+      "textLeft": 60,
+      "textRight": 112,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#how-to-play.how-section.landing-frame",
+      "tag": "section",
+      "top": 906,
+      "height": 1266,
+      "words": 121,
+      "media": 2,
+      "middle": 133,
+      "heading": {
+       "text": "Same zone.",
+       "size": 72,
+       "tag": "h2"
+      },
+      "left": 60,
+      "right": 60,
+      "textLeft": 60,
+      "textRight": 80,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.setup-section",
+      "tag": "section",
+      "top": 2172,
+      "height": 584,
+      "words": 72,
+      "media": 0,
+      "middle": 365,
+      "heading": {
+       "text": "Your turf.",
+       "size": 72,
+       "tag": "h2"
+      },
+      "left": 60,
+      "right": 88,
+      "textLeft": 60,
+      "textRight": 88,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#questions.faq-section.landing-frame",
+      "tag": "section",
+      "top": 2756,
+      "height": 744,
+      "words": 194,
+      "media": 0,
+      "middle": 368,
+      "heading": {
+       "text": "Before you",
+       "size": 72,
+       "tag": "h2"
+      },
+      "left": 60,
+      "right": 248,
+      "textLeft": 60,
+      "textRight": 248,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "footer.landing-footer",
+      "tag": "footer",
+      "top": 3500,
+      "height": 579,
+      "words": 28,
+      "media": 1,
+      "middle": 159,
+      "heading": {
+       "text": "Zonehunt",
+       "size": 253,
+       "tag": "span"
+      },
+      "left": 60,
+      "right": 60,
+      "textLeft": 60,
+      "textRight": 60,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [
+     {
+      "top": 2004,
+      "height": 284
+     }
+    ],
+    "h1s": [
+     {
+      "text": "Go outside. Go off the radar.",
+      "size": 92,
+      "top": 148,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 60,
+      "n": 12
+     },
+     {
+      "x": 682,
+      "n": 6
+     },
+     {
+      "x": 821,
+      "n": 3
+     },
+     {
+      "x": 752,
+      "n": 1
+     },
+     {
+      "x": 796,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 23,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.07,
+    "voidBox": {
+     "x": 1200,
+     "y": 120,
+     "w": 240,
+     "h": 360
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 4,
+   "filled": [
+    0.57,
+    0.51,
+    0.68,
+    0.73
+   ],
+   "motion": {
+    "elements": 21,
+    "css": 8,
+    "transitions": 0,
+    "scripted": 13,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 3989,
+     "screens": 3.9,
+     "words": 359,
+     "img": 0,
+     "video": 0,
+     "canvas": 0,
+     "svg": 10,
+     "sections": 3,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 5,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 5,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Go outside. Go off the radar.",
+     "words": 6,
+     "chars": 29,
+     "lines": 2,
+     "size": 64,
+     "vw": 8.3,
+     "font": "Archivo Variable",
+     "weight": 800,
+     "tracking": -0.035,
+     "leading": 0.94,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.47,
+     "top": 215,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Go outside. Go off the radar.",
+     "words": 6,
+     "lines": 2,
+     "size": 64,
+     "font": "Archivo Variable"
+    },
+    "headings": [
+     {
+      "text": "Go outside. Go off the radar.",
+      "words": 6,
+      "chars": 29,
+      "lines": 2,
+      "size": 64,
+      "vw": 8.3,
+      "font": "Archivo Variable",
+      "weight": 800,
+      "tracking": -0.035,
+      "leading": 0.94,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.47,
+      "top": 215,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Your next game starts here.",
+      "words": 5,
+      "chars": 27,
+      "lines": 2,
+      "size": 38,
+      "vw": 4.9,
+      "font": "Archivo Variable",
+      "weight": 800,
+      "tracking": -0.035,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.35,
+      "top": 407,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "14:32",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Archivo Variable",
+      "weight": 800,
+      "tracking": -0.01,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.13,
+      "top": 501,
+      "tag": "strong",
+      "kind": "heading"
+     },
+     {
+      "text": "Same zone. Different missions.",
+      "words": 4,
+      "chars": 30,
+      "lines": 2,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Archivo Variable",
+      "weight": 800,
+      "tracking": -0.035,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.42,
+      "top": 1105,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Chase the next clue.",
+      "words": 4,
+      "chars": 20,
+      "lines": 1,
+      "size": 38,
+      "vw": 4.9,
+      "font": "Archivo Variable",
+      "weight": 800,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.39,
+      "top": 1340,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Stay one turn ahead.",
+      "words": 4,
+      "chars": 20,
+      "lines": 1,
+      "size": 38,
+      "vw": 4.9,
+      "font": "Archivo Variable",
+      "weight": 800,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.39,
+      "top": 1759,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "180 m",
+      "words": 2,
+      "chars": 5,
+      "lines": 1,
+      "size": 50,
+      "vw": 6.5,
+      "font": "Archivo Variable",
+      "weight": 800,
+      "tracking": -0.01,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.14,
+      "top": 1934,
+      "tag": "strong",
+      "kind": "heading"
+     },
+     {
+      "text": "Your turf. Your rules.",
+      "words": 4,
+      "chars": 22,
+      "lines": 2,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Archivo Variable",
+      "weight": 800,
+      "tracking": -0.035,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.43,
+      "top": 2344,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Before you head out.",
+      "words": 4,
+      "chars": 20,
+      "lines": 2,
+      "size": 48,
+      "vw": 6.3,
+      "font": "Archivo Variable",
+      "weight": 800,
+      "tracking": -0.035,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.35,
+      "top": 2914,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "+",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 26,
+      "vw": 3.4,
+      "font": "Archivo Variable",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.02,
+      "top": 2930,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "+",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 26,
+      "vw": 3.4,
+      "font": "Archivo Variable",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.02,
+      "top": 3010,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "+",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 26,
+      "vw": 3.4,
+      "font": "Archivo Variable",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.02,
+      "top": 3090,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "+",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 26,
+      "vw": 3.4,
+      "font": "Archivo Variable",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.02,
+      "top": 3170,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "+",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 26,
+      "vw": 3.4,
+      "font": "Archivo Variable",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.02,
+      "top": 3250,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "+",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 26,
+      "vw": 3.4,
+      "font": "Archivo Variable",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.02,
+      "top": 3330,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "Take the long way home.",
+      "words": 5,
+      "chars": 23,
+      "lines": 1,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Archivo Variable",
+      "weight": 800,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.55,
+      "top": 3586,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Zonehunt",
+      "words": 1,
+      "chars": 8,
+      "lines": 1,
+      "size": 135.2,
+      "vw": 17.6,
+      "font": "Archivo Variable",
+      "weight": 800,
+      "tracking": -0.045,
+      "leading": 0.8,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 3808,
+      "tag": "div",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 17,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Archivo Variable",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      14,
+      16,
+      18,
+      20,
+      24,
+      26,
+      38,
+      40,
+      48,
+      64,
+      135
+     ],
+     "sizeCount": 11,
+     "notLoaded": [],
+     "body": {
+      "font": "Archivo Variable",
+      "size": 16,
+      "leading": 1.6,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 15.4
+     },
+     "measureChars": 40,
+     "max": {
+      "size": 135.2,
+      "vw": 17.6,
+      "font": "Archivo Variable",
+      "text": "Zonehunt"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.02,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#eef1f2",
+     "bodyBgHsl": {
+      "h": 195,
+      "s": 0.13,
+      "l": 0.94
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#0f1a2c",
+       "top": 2173,
+       "hsl": {
+        "h": 217,
+        "s": 0.49,
+        "l": 0.12
+       }
+      },
+      {
+       "color": "#ff5a1f",
+       "top": 3522,
+       "hsl": {
+        "h": 16,
+        "s": 1,
+        "l": 0.56
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#0f1a2c",
+       "share": 0.89
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.09
+      },
+      {
+       "color": "#4c5c48",
+       "share": 0.01
+      },
+      {
+       "color": "#2849c7",
+       "share": 0.01
+      }
+     ],
+     "button": {
+      "bg": "#ffffff",
+      "hsl": {
+       "h": 0,
+       "s": 0,
+       "l": 1
+      },
+      "fg": "#0f1a2c"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 6,
+     "inHero": 4,
+     "radius": 0,
+     "height": 36,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Chaser",
+      "Reveal runners +",
+      "Create a game",
+      "Join"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 0,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "svg",
+      "ratio": 0.16
+     }
+    ],
+    "nav": {
+     "links": 4,
+     "fixed": false,
+     "height": 100,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "archivo variable"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 3989,
+    "margins": {
+     "left": 32,
+     "right": 42
+    },
+    "sections": [
+     {
+      "sel": "div.landing-hero.landing-frame",
+      "tag": "div",
+      "top": 100,
+      "height": 867,
+      "words": 93,
+      "media": 1,
+      "middle": 23,
+      "heading": {
+       "text": "Go outside.",
+       "size": 64,
+       "tag": "h1"
+      },
+      "left": 32,
+      "right": 56,
+      "textLeft": 32,
+      "textRight": 68,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#how-to-play.how-section.landing-frame",
+      "tag": "section",
+      "top": 967,
+      "height": 1206,
+      "words": 116,
+      "media": 2,
+      "middle": 45,
+      "heading": {
+       "text": "Same zone.",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 32,
+      "textLeft": 32,
+      "textRight": 42,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.setup-section",
+      "tag": "section",
+      "top": 2173,
+      "height": 605,
+      "words": 72,
+      "media": 0,
+      "middle": 69,
+      "heading": {
+       "text": "Your turf.",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 60,
+      "textLeft": 32,
+      "textRight": 60,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#questions.faq-section.landing-frame",
+      "tag": "section",
+      "top": 2778,
+      "height": 744,
+      "words": 194,
+      "media": 0,
+      "middle": 191,
+      "heading": {
+       "text": "Before you",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 32,
+      "right": 60,
+      "textLeft": 32,
+      "textRight": 60,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "footer.landing-footer",
+      "tag": "footer",
+      "top": 3522,
+      "height": 467,
+      "words": 28,
+      "media": 0,
+      "middle": 8,
+      "heading": {
+       "text": "Zonehunt",
+       "size": 135,
+       "tag": "span"
+      },
+      "left": 32,
+      "right": 32,
+      "textLeft": 32,
+      "textRight": 32,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Go outside. Go off the radar.",
+      "size": 64,
+      "top": 215,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 32,
+      "n": 12
+     },
+     {
+      "x": 392,
+      "n": 6
+     },
+     {
+      "x": 434,
+      "n": 3
+     },
+     {
+      "x": 416,
+      "n": 2
+     }
+    ],
+    "leftBlocks": 23,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 7,
+   "filled": [
+    0.7,
+    0.76,
+    0.69,
+    0.72,
+    0.79,
+    0.94,
+    0.96
+   ],
+   "motion": {
+    "elements": 21,
+    "css": 6,
+    "transitions": 0,
+    "scripted": 15,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 5226,
+     "screens": 6.2,
+     "words": 354,
+     "img": 0,
+     "video": 0,
+     "canvas": 0,
+     "svg": 10,
+     "sections": 3,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 5,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 5,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Go outside. Go off the radar.",
+     "words": 6,
+     "chars": 29,
+     "lines": 2,
+     "size": 53,
+     "vw": 13.6,
+     "font": "Archivo Variable",
+     "weight": 800,
+     "tracking": -0.035,
+     "leading": 0.94,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.9,
+     "top": 110,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Go outside. Go off the radar.",
+     "words": 6,
+     "lines": 2,
+     "size": 53,
+     "font": "Archivo Variable"
+    },
+    "headings": [
+     {
+      "text": "Go outside. Go off the radar.",
+      "words": 6,
+      "chars": 29,
+      "lines": 2,
+      "size": 53,
+      "vw": 13.6,
+      "font": "Archivo Variable",
+      "weight": 800,
+      "tracking": -0.035,
+      "leading": 0.94,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 110,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Your next gamestarts here.",
+      "words": 4,
+      "chars": 26,
+      "lines": 2,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Archivo Variable",
+      "weight": 800,
+      "tracking": -0.035,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 442,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "14:32",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 48,
+      "vw": 12.3,
+      "font": "Archivo Variable",
+      "weight": 800,
+      "tracking": -0.01,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.25,
+      "top": 1068,
+      "tag": "strong",
+      "kind": "heading"
+     },
+     {
+      "text": "Same zone. Different missions.",
+      "words": 4,
+      "chars": 30,
+      "lines": 2,
+      "size": 52,
+      "vw": 13.3,
+      "font": "Archivo Variable",
+      "weight": 800,
+      "tracking": -0.035,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 1568,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Chase the next clue.",
+      "words": 4,
+      "chars": 20,
+      "lines": 1,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Archivo Variable",
+      "weight": 800,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 1820,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Stay one turn ahead.",
+      "words": 4,
+      "chars": 20,
+      "lines": 1,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Archivo Variable",
+      "weight": 800,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 2472,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "180 m",
+      "words": 2,
+      "chars": 5,
+      "lines": 1,
+      "size": 50,
+      "vw": 12.8,
+      "font": "Archivo Variable",
+      "weight": 800,
+      "tracking": -0.01,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.27,
+      "top": 2950,
+      "tag": "strong",
+      "kind": "heading"
+     },
+     {
+      "text": "Your turf. Your rules.",
+      "words": 4,
+      "chars": 22,
+      "lines": 2,
+      "size": 52,
+      "vw": 13.3,
+      "font": "Archivo Variable",
+      "weight": 800,
+      "tracking": -0.035,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 3201,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Before you head out.",
+      "words": 4,
+      "chars": 20,
+      "lines": 2,
+      "size": 52,
+      "vw": 13.3,
+      "font": "Archivo Variable",
+      "weight": 800,
+      "tracking": -0.035,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 4044,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "+",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 26,
+      "vw": 6.7,
+      "font": "Archivo Variable",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.04,
+      "top": 4195,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "+",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 26,
+      "vw": 6.7,
+      "font": "Archivo Variable",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.04,
+      "top": 4275,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "+",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 26,
+      "vw": 6.7,
+      "font": "Archivo Variable",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.04,
+      "top": 4355,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "+",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 26,
+      "vw": 6.7,
+      "font": "Archivo Variable",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.04,
+      "top": 4435,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "+",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 26,
+      "vw": 6.7,
+      "font": "Archivo Variable",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.04,
+      "top": 4515,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "+",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 26,
+      "vw": 6.7,
+      "font": "Archivo Variable",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.04,
+      "top": 4595,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "Take the long way home.",
+      "words": 5,
+      "chars": 23,
+      "lines": 1,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Archivo Variable",
+      "weight": 800,
+      "tracking": -0.035,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.82,
+      "top": 4786,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Zonehunt",
+      "words": 1,
+      "chars": 8,
+      "lines": 1,
+      "size": 66.3,
+      "vw": 17,
+      "font": "Archivo Variable",
+      "weight": 800,
+      "tracking": -0.045,
+      "leading": 0.8,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 5101,
+      "tag": "div",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 17,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Archivo Variable",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      13,
+      14,
+      16,
+      18,
+      21,
+      26,
+      36,
+      40,
+      52,
+      53,
+      66
+     ],
+     "sizeCount": 11,
+     "notLoaded": [],
+     "body": {
+      "font": "Archivo Variable",
+      "size": 16,
+      "leading": 1.6,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 15.4
+     },
+     "measureChars": 39,
+     "max": {
+      "size": 66.3,
+      "vw": 17,
+      "font": "Archivo Variable",
+      "text": "Zonehunt"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.02,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#eef1f2",
+     "bodyBgHsl": {
+      "h": 195,
+      "s": 0.13,
+      "l": 0.94
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#e0e7dd",
+       "top": 950,
+       "hsl": {
+        "h": 102,
+        "s": 0.17,
+        "l": 0.89
+       }
+      },
+      {
+       "color": "#e4e9e2",
+       "top": 1018,
+       "hsl": {
+        "h": 103,
+        "s": 0.14,
+        "l": 0.9
+       }
+      },
+      {
+       "color": "#ffffff",
+       "top": 418,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#dfe6ff",
+       "top": 2708,
+       "hsl": {
+        "h": 227,
+        "s": 1,
+        "l": 0.94
+       }
+      },
+      {
+       "color": "#0f1a2c",
+       "top": 3137,
+       "hsl": {
+        "h": 217,
+        "s": 0.49,
+        "l": 0.12
+       }
+      },
+      {
+       "color": "#ff5a1f",
+       "top": 4738,
+       "hsl": {
+        "h": 16,
+        "s": 1,
+        "l": 0.56
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#0f1a2c",
+       "share": 0.89
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.09
+      },
+      {
+       "color": "#4c5c48",
+       "share": 0.01
+      },
+      {
+       "color": "#2849c7",
+       "share": 0.01
+      }
+     ],
+     "button": {
+      "bg": "#ffffff",
+      "hsl": {
+       "h": 0,
+       "s": 0,
+       "l": 1
+      },
+      "fg": "#0f1a2c"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 6,
+     "inHero": 2,
+     "radius": 0,
+     "height": 56,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Create a game",
+      "Join"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 0,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 2,
+     "fixed": false,
+     "height": 80,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "archivo variable"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 5226,
+    "margins": {
+     "left": 20,
+     "right": 20
+    },
+    "sections": [
+     {
+      "sel": "div.hero-intro",
+      "tag": "div",
+      "top": 110,
+      "height": 276,
+      "words": 26,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Go off the radar.",
+       "size": 53,
+       "tag": "h1"
+      },
+      "left": 20,
+      "right": 22,
+      "textLeft": 20,
+      "textRight": 22,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.hero-play-grid",
+      "tag": "div",
+      "top": 418,
+      "height": 1062,
+      "words": 65,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Your next game",
+       "size": 40,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 40,
+      "textRight": 44,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#how-to-play.how-section.landing-frame",
+      "tag": "section",
+      "top": 1480,
+      "height": 1657,
+      "words": 116,
+      "media": 2,
+      "middle": 0,
+      "heading": {
+       "text": "Same zone.",
+       "size": 52,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 26,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.setup-section",
+      "tag": "section",
+      "top": 3137,
+      "height": 819,
+      "words": 72,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Your turf.",
+       "size": 52,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 39,
+      "textLeft": 20,
+      "textRight": 39,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section#questions.faq-section.landing-frame",
+      "tag": "section",
+      "top": 3956,
+      "height": 782,
+      "words": 162,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Before you",
+       "size": 52,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 40,
+      "textLeft": 20,
+      "textRight": 40,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "footer.landing-footer",
+      "tag": "footer",
+      "top": 4738,
+      "height": 488,
+      "words": 28,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Zonehunt",
+       "size": 66,
+       "tag": "span"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 20,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Go outside. Go off the radar.",
+      "size": 53,
+      "top": 110,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 20,
+      "n": 17
+     },
+     {
+      "x": 40,
+      "n": 6
+     }
+    ],
+    "leftBlocks": 23,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "size-count",
+   "width": 1440,
+   "message": "11 different font sizes (14, 16, 18, 20, 24, 26, 44, 58, 72, 92, 253).",
+   "fix": "A page needs about five: display, heading, lead, body, small.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "no-real-pictures",
+   "width": 1440,
+   "message": "Only 0 real photograph(s) or clip(s); the rest are interface fragments.",
+   "fix": "Add two or more real pictures of the customer's world from scripts/assets.mjs, not stock of people at laptops."
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "WARN",
+   "id": "off-centre",
+   "width": 1440,
+   "message": "The margins differ: 60px on the left, 80px on the right, at 1440px.",
+   "fix": "Put the navigation and the content on one pair of margins; check for padding on one side only, a scrollbar gutter, or a header on another inset than the page."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "D:\\Programming\\Projects\\zonehunt\\zonehunt\\.taste-skill\\release\\desktop-fold.jpg",
+   "pages": [
+    "D:\\Programming\\Projects\\zonehunt\\zonehunt\\.taste-skill\\release\\desktop-page-01.jpg",
+    "D:\\Programming\\Projects\\zonehunt\\zonehunt\\.taste-skill\\release\\desktop-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "D:\\Programming\\Projects\\zonehunt\\zonehunt\\.taste-skill\\release\\tablet-fold.jpg",
+   "pages": [
+    "D:\\Programming\\Projects\\zonehunt\\zonehunt\\.taste-skill\\release\\tablet-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "D:\\Programming\\Projects\\zonehunt\\zonehunt\\.taste-skill\\release\\mobile-fold.jpg",
+   "pages": [
+    "D:\\Programming\\Projects\\zonehunt\\zonehunt\\.taste-skill\\release\\mobile-page-01.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

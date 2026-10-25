@@ -1,0 +1,9 @@
+node_modules
+.next
+out
+.env.local
+next-env.d.ts
+tsconfig.tsbuildinfo
+pocketbase/pocketbase
+pocketbase/pb_data
+pocketbase/pb_public
