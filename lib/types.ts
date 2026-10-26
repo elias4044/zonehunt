@@ -1,3 +1,5 @@
+// Do I even need to explain what this file does?
+
 export type Role = "none" | "chaser" | "runner" | "referee";
 export type GameStatus = "lobby" | "active" | "paused" | "ended";
 export type LatLng = [number, number];

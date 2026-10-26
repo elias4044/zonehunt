@@ -16,20 +16,6 @@ type Options = {
 
 const BASE_DELAY: Record<string, number> = { lobby: 5000, active: 4000, paused: 6000, ended: 8000 };
 
-/*
-  The one loop that keeps a phone in sync with the game.
-
-  Every few seconds it posts our latest GPS fix to /api/mh/sync and gets back the whole
-  picture: game state, roster, our own status, compass, new reveals, new feed events.
-  Because the response is always complete, a phone that slept for two minutes catches up
-  in a single request, and nothing depends on a websocket staying alive.
-
-  PocketBase realtime is only a nudge. When anything in the game changes we sync right
-  away instead of waiting for the next tick. If realtime dies, the loop still works.
-
-  Failure handling: back off up to 15 s, flip the link to "weak" then "offline" so the UI
-  can say so honestly, and carry on. We only give up on a 401 or 404 from the server.
-*/
 export function useGameSync({ enabled, gameId, fix, onLost }: Options) {
   const [data, setData] = useState<SyncResponse | null>(null);
   const [events, setEvents] = useState<FeedEvent[]>([]);

@@ -8,10 +8,7 @@ import { Button } from "./ui";
 
 type Result = { name: string; remaining: number };
 
-/*
-  Chasers type the 4-digit code shown on the runner's phone. It submits itself on the
-  fourth digit, which is faster than hunting for an OK button with a runner on your heels.
-*/
+
 export default function CatchPad({ onClose, onCaught }: { onClose: () => void; onCaught: () => void }) {
   const reduced = useReducedMotion();
   const [digits, setDigits] = useState("");

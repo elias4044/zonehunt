@@ -5,12 +5,6 @@ import { useCallback, useEffect, useState } from "react";
 type IOSOrientationEvent = DeviceOrientationEvent & { webkitCompassHeading?: number };
 type IOSPermissionApi = { requestPermission?: () => Promise<"granted" | "denied"> };
 
-/*
-  Which way the phone is pointing, in degrees from north. Null until we know.
-
-  Android just works. iOS only hands out heading after a tap, so `needsTap` tells the UI
-  to show an "Enable compass" button, and `enable` has to be called from that tap.
-*/
 export function useHeading(active: boolean) {
   const [heading, setHeading] = useState<number | null>(null);
   const [granted, setGranted] = useState(false);

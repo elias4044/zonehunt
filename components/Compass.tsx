@@ -25,11 +25,7 @@ function useContinuousAngle(target: number) {
 const swing = { transition: "transform 0.25s var(--ease-out)" } as const;
 const follow = { transition: "transform 0.16s var(--ease-out)" } as const;
 
-/*
-  Points toward the nearest chaser within range. It never shows a route, only a direction
-  and a rounded distance. With a device heading the dial turns with you; without one it
-  stays north-up and says so.
-*/
+
 export default function Compass({ reading, heading, needsTap, enable, rangeM }: Props) {
   const reduced = useReducedMotion();
   const rot = useContinuousAngle(heading ?? 0);

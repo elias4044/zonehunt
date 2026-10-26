@@ -1,15 +1,6 @@
 @import "tailwindcss";
 @import "@fontsource-variable/archivo/wdth.css";
 
-/*
-  Design notes:
-  - Built to be read outdoors, in sun, while moving. Big type, hard contrast, no thin greys.
-  - The accent follows your role: flare orange for chasers, signal blue for runners.
-    That colour is the only thing on screen that changes between roles, so a glance
-    at the edge of the phone tells you which side you're on.
-  - Archivo is one family used at two widths. Condensed and heavy for the clock and codes,
-    normal width for everything you read.
-*/
 
 @theme {
   --font-sans: "Archivo Variable", ui-sans-serif, system-ui, sans-serif;

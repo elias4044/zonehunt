@@ -6,7 +6,7 @@ import { useSyncExternalStore } from "react";
   Chrome fires `beforeinstallprompt` once per page load, usually a moment after load. If the
   only listener lives on the home screen, the event is lost whenever that screen isn't on
   screen at that moment (or hasn't mounted yet). So the listener is installed once at app
-  start and the event is kept here until someone wants it.
+  start and the event is kept here until someone wants it. 😀😀😀😀😀😀
 */
 
 type PromptEvent = Event & { prompt: () => Promise<void>; userChoice: Promise<{ outcome: string }> };

@@ -5,13 +5,7 @@ import type { Fix } from "@/lib/types";
 
 export type GpsStatus = "idle" | "asking" | "ok" | "denied" | "unavailable";
 
-/*
-  Watches the device position while `enabled` is true.
 
-  Mobile browsers like to quietly kill a watch when the page was hidden, so we
-  restart it every time the page becomes visible again. Cheap, and it fixes the
-  "GPS froze after I checked a text" class of bugs.
-*/
 export function useGeolocation(enabled: boolean) {
   const [fix, setFix] = useState<Fix | null>(null);
   const [status, setStatus] = useState<GpsStatus>("idle");

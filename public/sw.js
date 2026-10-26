@@ -1,12 +1,6 @@
 /*
     Service worker for Zonehunt.
 
-    What it does:
-    - Keeps the app shell so the app opens with no signal (you still need a connection to play,
-      but a dead zone while the page reloads shouldn't leave you staring at a dino).
-    - Caches map tiles you've already looked at, so the map doesn't go blank in a patchy area.
-    - Stays out of the way of the API and realtime stream. Game data must never be served from a cache.
-
     Bump SHELL_VERSION when you change this file's behaviour.
 
     -- Elias, 2026

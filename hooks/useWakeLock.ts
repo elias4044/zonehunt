@@ -4,11 +4,6 @@ import { useEffect, useState } from "react";
 
 export type WakeStatus = "unsupported" | "off" | "on";
 
-/*
-  Keeps the screen awake while `enabled`. This is the single most important thing for
-  a web-based GPS game: a locked phone means a suspended page means no position updates.
-  The browser drops the lock whenever the page is hidden, so we ask again on return.
-*/
 export function useWakeLock(enabled: boolean) {
   const [status, setStatus] = useState<WakeStatus>("off");
 
